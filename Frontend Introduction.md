@@ -4,7 +4,7 @@
 
 ### First Picture
 
-*Welcome to the Common DataBase Application*
+**Welcome to the Common DataBase Application**
 This Applicaion will help to organize the information of your project and get in exchange with other cooperative projects.
 
 #### Register
